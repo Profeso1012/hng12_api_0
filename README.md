@@ -13,7 +13,7 @@ The API is **publicly accessible** and **deployed** to Vercel.
 ## 🚀 API Endpoint
 ### **Base URL:**
 ```
-https://hng12-api.vercel.app/
+https://hng12task-0-ocpffdmb9-oluwaseyi-emmanuels-projects.vercel.app
 ```
 
 ### **Response Format (200 OK)**
